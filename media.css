@@ -13,7 +13,12 @@ h4 {
 }
 
 
-
+.plaatje {
+  display: inline-block;
+  position: center;
+  width: 700px;
+  height: auto;
+}
 
 
 .alles {
